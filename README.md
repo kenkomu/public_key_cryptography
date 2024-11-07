@@ -11,4 +11,6 @@ x to the following equation (which is believed to be infeasible):
 pk = g^x
 
 In this concept, we use the modular exponentiation function to calculate the public key based on the secret key.
+
+
 ![alt text](image.png)
